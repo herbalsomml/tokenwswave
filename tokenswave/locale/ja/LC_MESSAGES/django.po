@@ -1,0 +1,342 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-23 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: tokenswave/settings.py:100
+msgid "English"
+msgstr ""
+
+#: tokenswave/settings.py:101
+msgid "Bahasa"
+msgstr ""
+
+#: tokenswave/settings.py:102
+msgid "Deutsch"
+msgstr ""
+
+#: tokenswave/settings.py:103
+msgid "Español"
+msgstr ""
+
+#: tokenswave/settings.py:104
+msgid "Français"
+msgstr ""
+
+#: tokenswave/settings.py:105
+msgid "हिन्दी (Hindī)"
+msgstr ""
+
+#: tokenswave/settings.py:106
+msgid "Italiano"
+msgstr ""
+
+#: tokenswave/settings.py:107
+msgid "Čeština"
+msgstr ""
+
+#: tokenswave/settings.py:108
+msgid "Latviski"
+msgstr ""
+
+#: tokenswave/settings.py:109
+msgid "Magyar nyelv"
+msgstr ""
+
+#: tokenswave/settings.py:110
+msgid "한국어 (Hangugeo)"
+msgstr ""
+
+#: tokenswave/settings.py:111
+msgid "Русский"
+msgstr ""
+
+#: tokenswave/settings.py:112
+msgid "日本語 (Nihongo)"
+msgstr ""
+
+#: tokenswave/settings.py:113
+msgid "Polski"
+msgstr ""
+
+#: tokenswave/settings.py:114
+msgid "Українська"
+msgstr ""
+
+#: website/templates/index.html:56 website/templates/index.html:57
+#: website/templates/index.html:62
+msgid "Buy Chaturbate Tokens Cheaper"
+msgstr "Chaturbateトークンをより安く購入する"
+
+#: website/templates/index.html:58 website/templates/index.html:59
+#: website/templates/index.html:60
+#, python-format
+msgid ""
+"Get Chaturbate tokens 35%% cheaper. Buy fully legal tokens with no risk of "
+"account suspension. We source tokens directly from verified models and "
+"studios, ensuring safe and secure transactions for all your Chaturbate needs."
+msgstr ""
+"35％安くChaturbateトークンを取得します。アカウント停止のリスクなしで完全に合"
+"法的なトークンを購入。私たちは、あなたのすべてのChaturbateのニーズのための安"
+"全かつ確実な取引を確保し、検証済みのモデルやスタジオから直接トークンを調達し"
+"ています。"
+
+#: website/templates/index.html:103
+msgid "Contact"
+msgstr "連絡先"
+
+#: website/templates/index.html:104
+msgid "Steps"
+msgstr "ステップ"
+
+#: website/templates/index.html:105
+msgid "FAQ"
+msgstr "よくあるご質問"
+
+#: website/templates/index.html:106
+msgid "Calculator"
+msgstr "電卓"
+
+#: website/templates/index.html:122
+#, python-format
+msgid "Legit tokens, but 35%% cheaper"
+msgstr "正規のトークンだが35%%安い"
+
+#: website/templates/index.html:137
+msgid "Your Way to Get Tokens"
+msgstr "トークン獲得への道"
+
+#: website/templates/index.html:145
+msgid "Text the manager"
+msgstr "マネージャーにメールする"
+
+#: website/templates/index.html:154
+msgid "Send link to your Chaturbate account"
+msgstr "Chaturbateアカウントにリンクを送る"
+
+#: website/templates/index.html:163
+msgid "Pay for tokens"
+msgstr "トークンの支払い"
+
+#: website/templates/index.html:172
+msgid "Get your tokens"
+msgstr "トークンを手に入れる"
+
+#: website/templates/index.html:185
+msgid "Frequently Asked Questions"
+msgstr "よくある質問"
+
+#: website/templates/index.html:187
+msgid ""
+"In this section you can find answers to the most common questions. If you "
+"have not found the answer to your question, do not hesitate to ask our "
+"manager"
+msgstr ""
+"このセクションでは、最も一般的な質問に対する答えを見つけることができます。ご"
+"質問に対する答えが見つからない場合は、遠慮なくマネージャーにお尋ねください。"
+
+#: website/templates/index.html:199
+msgid "Where do you get your tokens from?"
+msgstr "トークンはどこから入手するのですか？"
+
+#: website/templates/index.html:204
+msgid ""
+"We partner with studios to provide them with a service to exchange tokens "
+"for local currencies."
+msgstr ""
+"私たちはスタジオと提携し、トークンを現地通貨に交換するサービスを提供していま"
+"す。"
+
+#: website/templates/index.html:205
+msgid ""
+"We buy a large number of tokens from studios and transfer the money to them "
+"in their local currency, so we save them time and effort in getting the "
+"money they have earned."
+msgstr ""
+"私たちはスタジオから大量のトークンを購入し、彼らの現地通貨で送金するので、彼"
+"らが稼いだお金を手に入れる時間と手間を省くことができる。"
+
+#: website/templates/index.html:213
+msgid "Is it safe?"
+msgstr "安全ですか？"
+
+#: website/templates/index.html:218
+msgid "Yes, it is completely safe."
+msgstr "はい、まったく安全です。"
+
+#: website/templates/index.html:219
+msgid ""
+"We have checked with Chaturbate technical support to make sure that our "
+"activity does not violate the site's rules."
+msgstr ""
+"Chaturbateテクニカルサポートに確認し、私たちの活動がサイトのルールに違反して"
+"いないことを確認しています。"
+
+#: website/templates/index.html:220
+msgid ""
+"All tokens we own are obtained in a completely honest way, we have verified "
+"each transaction ourselves, as well as by contacting Chaturbate support."
+msgstr ""
+"私たちが所有するすべてのトークンは、完全に正直な方法で取得され、私たち自身だ"
+"けでなく、Chaturbateのサポートに連絡して、各トランザクションを検証していま"
+"す。"
+
+#: website/templates/index.html:221
+msgid "Thus the tokens we offer you are absolutely safe!"
+msgstr "したがって、当社が提供するトークンは絶対に安全です！"
+
+#: website/templates/index.html:229
+msgid "Why do you sell tokens cheaper than Chaturbate?"
+msgstr "なぜChaturbateよりも安くトークンを販売しているのですか？"
+
+#: website/templates/index.html:234
+msgid ""
+"As you know, if you want to buy tokens as a viewer directly from Chaturbate, "
+"the price per token is about $0.1 (e.g. 1000tk is $100)."
+msgstr ""
+"ご存知のように、Chaturbateから直接視聴者としてトークンを購入したい場合、トー"
+"クンあたりの価格は約0.1ドルです（例：1000tkは100ドル）。"
+
+#: website/templates/index.html:235
+#, python-format
+msgid ""
+"However, the model/studio only gets 50%% of these funds (the price of a "
+"token for a model is $0.05 or $50 per 1000tk)."
+msgstr ""
+"しかし、モデル／スタジオはこれらの資金の50％しか得られない（モデルのトークン"
+"の価格は1000tkあたり0.05ドルまたは50ドル）。"
+
+#: website/templates/index.html:236
+msgid ""
+"Our benefit is that we buy tokens from studios at the site price and make it "
+"easier and faster for them to get the money they earn, then we sell the "
+"tokens back to the viewers at $0.065 per 1 token ($65 per 1000tk)."
+msgstr ""
+"私たちのメリットは、スタジオからトークンをサイト価格で購入し、彼らが稼いだお"
+"金をより簡単かつ迅速に手に入れられるようにすることです。その後、トークンを1"
+"トークンあたり0.065ドル（1000tkあたり65ドル）で視聴者に販売します。"
+
+#: website/templates/index.html:237
+msgid ""
+"In this way we have created a WIN-WIN-WIN system in which absolutely every "
+"party benefits."
+msgstr ""
+"こうして私たちは、すべての関係者が恩恵を受けるWIN-WIN-WINのシステムを作り上げ"
+"た。"
+
+#: website/templates/index.html:239
+msgid "The studio:"
+msgstr "スタジオだ："
+
+#: website/templates/index.html:239
+msgid "saves time and effort to withdraw earnings"
+msgstr "収益の引き出しにかかる時間と労力を節約"
+
+#: website/templates/index.html:240
+msgid "The viewer:"
+msgstr "視聴者だ："
+
+#: website/templates/index.html:240
+#, python-format
+msgid "saves his money when buying tokens (about 35%%)"
+msgstr "トークンを買うときにお金を節約できる（約35％）。"
+
+#: website/templates/index.html:241
+msgid "We:"
+msgstr "私たちだ："
+
+#: website/templates/index.html:241
+msgid "benefit from the difference in exchange rates"
+msgstr "為替レートの差による利益"
+
+#: website/templates/index.html:250
+msgid "What is the process of buying tokens?"
+msgstr "トークンの購入プロセスは？"
+
+#: website/templates/index.html:256
+msgid "First you need to have a verified Chaturbate account"
+msgstr "まず、Chaturbateアカウントを認証する必要があります。"
+
+#: website/templates/index.html:256
+msgid "(click here for instructions)"
+msgstr "(手順はこちら)"
+
+#: website/templates/index.html:257
+msgid "You write to our manager in"
+msgstr "マネージャーに手紙を書く"
+
+#: website/templates/index.html:257
+msgid "and write the amount of tokens you need"
+msgstr "そして、必要なトークンの量を書き込む。"
+
+#: website/templates/index.html:258
+msgid ""
+"Manager provides you with payment details (PayPal, Revolut, Crypto, Skrill "
+"or card payment)."
+msgstr ""
+"マネージャーは、支払いに関する詳細（PayPal、Revolut、Crypto、Skrill、または"
+"カード支払い）を提供します。"
+
+#: website/templates/index.html:259
+msgid "The manager sends you your tokens"
+msgstr "マネージャーがトークンを送る"
+
+#: website/templates/index.html:268
+msgid "Why do I need to be verified on Chaturbate?"
+msgstr "なぜChaturbateで認証が必要なのですか？"
+
+#: website/templates/index.html:273
+msgid ""
+"By default, the Chaturbate platform does not support sending tokens to a "
+"viewer account, but if you validate your account with documents (as any "
+"model does), the account has new features, including receiving tokens"
+msgstr ""
+"デフォルトでは、Chaturbateプラットフォームは、ビューアアカウントへのトークン"
+"の送信をサポートしていませんが、ドキュメントでアカウントを検証する場合（どの"
+"モデルもそうです）、アカウントはトークンを受信するなどの新しい機能を持ってい"
+"ます。"
+
+#: website/templates/index.html:274
+msgid ""
+"We do not require you to provide your documents to us, you upload them "
+"exclusively to the Chaturbate website, your documents will not be used "
+"anywhere else and are completely secure (read the Chaturbate user agreement "
+"for more details)."
+msgstr ""
+"あなたの書類はChaturbateのウェブサイトにのみアップロードされ、他で使用される"
+"ことはありません。"
+
+#: website/templates/index.html:292
+msgid "Tokens Calculator"
+msgstr "トークン計算機"
+
+#: website/templates/index.html:295
+msgid "1 Token"
+msgstr "1トークン"
+
+#: website/templates/index.html:297
+msgid "Price"
+msgstr "価格"
+
+#: website/templates/index.html:328
+msgid "Tokens Amount"
+msgstr "トークン量"
+
+#: website/templates/index.html:332
+msgid "Price in Dollars"
+msgstr "ドル建て価格"

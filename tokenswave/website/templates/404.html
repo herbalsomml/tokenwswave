@@ -1,0 +1,50 @@
+{% load i18n %}
+{% load static %}
+{% load custom_tags %}
+
+{% get_current_language as CURRENT_LANGUAGE %}
+{% get_available_languages as AVAILABLE_LANGUAGES %}
+{% get_language_info_list for AVAILABLE_LANGUAGES as languages %}
+
+<!DOCTYPE html>
+<html lang="{{ CURRENT_LANGUAGE }}">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        <title>{% trans 'Page Not Found' %} | {{ sitename }}</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
+        <link href="{% static 'css/styles.css' %}" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body id="page-top">
+
+ 
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3"  id="mainNav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+        <div class="container-fluid px-4 px-lg-5">
+            <a class="navbar-brand" href="#page-top" itemprop="name"><i class="fa-solid fa-money-bill"></i>{{ sitename }}</a>
+
+        </div>
+      </nav>
+      
+        <header class="masthead" id="contact" itemscope itemtype="https://schema.org/Organization">
+          <div class="container px-4 px-lg-5 h-100">
+              <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
+                  <div class="col-lg-8 align-self-end">
+                      <h1 class="text-white font-weight-bold" itemprop="name">404</h1>
+                      <hr class="divider" />
+                  </div>
+                  <div class="col-lg-8 align-self-baseline">
+                      <p class="text-white-75 mb-5" itemprop="description">{% trans 'Page Not Found' %}</p>
+                      <a href="/" target="_blank" class="btn btn-lg bsb-btn-2xl btn-primary" itemprop="sameAs">
+                        <i class="fa-solid fa-home"></i>{% trans 'Back' %}
+                      </a>
+                  </div>
+              </div>
+          </div>
+      </header>
+    </body>
+</html>

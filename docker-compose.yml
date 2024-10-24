@@ -1,0 +1,22 @@
+version: '3'
+
+volumes:
+  pg_data:
+  static:
+
+services:
+  website:
+    build: ./tokenswave/
+    env_file: .env
+    volumes:
+      - static:/app/staticfiles  # Статика собирается в директорию '/app/staticfiles'
+
+  gateway:
+    depends_on:
+      - website
+    build: ./nginx/
+    env_file: .env
+    ports:
+      - "80:80"
+    volumes:
+      - static:/static  # Nginx использует директорию '/static' для статики
