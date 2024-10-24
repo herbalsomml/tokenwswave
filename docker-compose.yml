@@ -3,9 +3,12 @@ version: '3'
 volumes:
   pg_data:
   static:
+  certs:
+  nginx_conf:
 
 services:
   website:
+    restart: always
     build: ./tokenswave/
     env_file: .env
     volumes:
@@ -18,5 +21,8 @@ services:
     env_file: .env
     ports:
       - "80:80"
+      - "443:443"
     volumes:
       - static:/static  # Nginx использует директорию '/static' для статики
+      - certs:/etc/letsencrypt
+      - nginx_conf:/etc/nginx/templates
