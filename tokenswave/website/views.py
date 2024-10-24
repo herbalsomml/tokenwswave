@@ -41,7 +41,7 @@ sitemap_xml_content = f"""\
 <loc>{domain}/id</loc>
 </url>
 <url>
-<loc>{domain}de</loc>
+<loc>{domain}/de</loc>
 </url>
 <url>
 <loc>{domain}/es</loc>
