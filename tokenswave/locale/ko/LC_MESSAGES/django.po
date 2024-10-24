@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-23 20:44+0200\n"
+"POT-Creation-Date: 2024-10-24 14:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,73 +18,94 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: tokenswave/settings.py:100
+#: tokenswave/settings.py:78
 msgid "English"
 msgstr ""
 
-#: tokenswave/settings.py:101
+#: tokenswave/settings.py:79
 msgid "Bahasa"
 msgstr ""
 
-#: tokenswave/settings.py:102
+#: tokenswave/settings.py:80
 msgid "Deutsch"
 msgstr ""
 
-#: tokenswave/settings.py:103
+#: tokenswave/settings.py:81
 msgid "Español"
 msgstr ""
 
-#: tokenswave/settings.py:104
+#: tokenswave/settings.py:82
 msgid "Français"
 msgstr ""
 
-#: tokenswave/settings.py:105
+#: tokenswave/settings.py:83
 msgid "हिन्दी (Hindī)"
 msgstr ""
 
-#: tokenswave/settings.py:106
+#: tokenswave/settings.py:84
 msgid "Italiano"
 msgstr ""
 
-#: tokenswave/settings.py:107
+#: tokenswave/settings.py:85
 msgid "Čeština"
 msgstr ""
 
-#: tokenswave/settings.py:108
+#: tokenswave/settings.py:86
 msgid "Latviski"
 msgstr ""
 
-#: tokenswave/settings.py:109
+#: tokenswave/settings.py:87
 msgid "Magyar nyelv"
 msgstr ""
 
-#: tokenswave/settings.py:110
+#: tokenswave/settings.py:88
 msgid "한국어 (Hangugeo)"
 msgstr ""
 
-#: tokenswave/settings.py:111
+#: tokenswave/settings.py:89
 msgid "Русский"
 msgstr ""
 
-#: tokenswave/settings.py:112
+#: tokenswave/settings.py:90
 msgid "日本語 (Nihongo)"
 msgstr ""
 
-#: tokenswave/settings.py:113
+#: tokenswave/settings.py:91
 msgid "Polski"
 msgstr ""
 
-#: tokenswave/settings.py:114
+#: tokenswave/settings.py:92
 msgid "Українська"
 msgstr ""
 
-#: website/templates/index.html:56 website/templates/index.html:57
-#: website/templates/index.html:62
+#: website/templates/400.html:16 website/templates/400.html:41
+msgid "Bad Request"
+msgstr ""
+
+#: website/templates/400.html:43 website/templates/403.html:43
+#: website/templates/404.html:43 website/templates/500.html:43
+msgid "Back"
+msgstr ""
+
+#: website/templates/403.html:16 website/templates/403.html:41
+msgid "Forbidden"
+msgstr ""
+
+#: website/templates/404.html:16 website/templates/404.html:41
+msgid "Page Not Found"
+msgstr ""
+
+#: website/templates/500.html:16 website/templates/500.html:41
+msgid "Internal Error"
+msgstr ""
+
+#: website/templates/index.html:59 website/templates/index.html:60
+#: website/templates/index.html:65
 msgid "Buy Chaturbate Tokens Cheaper"
 msgstr "채터베이트 토큰을 더 저렴하게 구매하기"
 
-#: website/templates/index.html:58 website/templates/index.html:59
-#: website/templates/index.html:60
+#: website/templates/index.html:61 website/templates/index.html:62
+#: website/templates/index.html:63
 #, python-format
 msgid ""
 "Get Chaturbate tokens 35%% cheaper. Buy fully legal tokens with no risk of "
@@ -95,52 +116,56 @@ msgstr ""
 "법적인 토큰을 구매하세요. 저희는 검증된 모델과 스튜디오에서 직접 토큰을 조달"
 "하여 모든 Chaturbate 요구에 맞는 안전하고 안전한 거래를 보장합니다."
 
-#: website/templates/index.html:103
+#: website/templates/index.html:88 website/templates/index.html:97
+msgid "language"
+msgstr "언어"
+
+#: website/templates/index.html:105
 msgid "Contact"
 msgstr "연락처"
 
-#: website/templates/index.html:104
+#: website/templates/index.html:106
 msgid "Steps"
 msgstr "단계"
 
-#: website/templates/index.html:105
+#: website/templates/index.html:107
 msgid "FAQ"
 msgstr "자주 묻는 질문"
 
-#: website/templates/index.html:106
+#: website/templates/index.html:108
 msgid "Calculator"
 msgstr "계산기"
 
-#: website/templates/index.html:122
+#: website/templates/index.html:124
 #, python-format
 msgid "Legit tokens, but 35%% cheaper"
 msgstr "합법적인 토큰이지만 35%% 더 저렴합니다."
 
-#: website/templates/index.html:137
+#: website/templates/index.html:139
 msgid "Your Way to Get Tokens"
 msgstr "토큰을 얻는 방법"
 
-#: website/templates/index.html:145
+#: website/templates/index.html:147
 msgid "Text the manager"
 msgstr "관리자에게 문자 보내기"
 
-#: website/templates/index.html:154
+#: website/templates/index.html:156
 msgid "Send link to your Chaturbate account"
 msgstr "Chaturbate 계정으로 링크 보내기"
 
-#: website/templates/index.html:163
+#: website/templates/index.html:165
 msgid "Pay for tokens"
 msgstr "토큰 결제"
 
-#: website/templates/index.html:172
+#: website/templates/index.html:174
 msgid "Get your tokens"
 msgstr "토큰 받기"
 
-#: website/templates/index.html:185
+#: website/templates/index.html:187
 msgid "Frequently Asked Questions"
 msgstr "자주 묻는 질문"
 
-#: website/templates/index.html:187
+#: website/templates/index.html:189
 msgid ""
 "In this section you can find answers to the most common questions. If you "
 "have not found the answer to your question, do not hesitate to ask our "
@@ -149,11 +174,11 @@ msgstr ""
 "이 섹션에서는 가장 자주 묻는 질문에 대한 답변을 찾을 수 있습니다. 질문에 대"
 "한 답을 찾지 못했다면 주저하지 말고 관리자에게 문의하세요."
 
-#: website/templates/index.html:199
+#: website/templates/index.html:201
 msgid "Where do you get your tokens from?"
 msgstr "토큰은 어디에서 얻나요?"
 
-#: website/templates/index.html:204
+#: website/templates/index.html:206
 msgid ""
 "We partner with studios to provide them with a service to exchange tokens "
 "for local currencies."
@@ -161,7 +186,7 @@ msgstr ""
 "유니티는 스튜디오와 제휴하여 토큰을 현지 통화로 교환할 수 있는 서비스를 제공"
 "합니다."
 
-#: website/templates/index.html:205
+#: website/templates/index.html:207
 msgid ""
 "We buy a large number of tokens from studios and transfer the money to them "
 "in their local currency, so we save them time and effort in getting the "
@@ -170,15 +195,15 @@ msgstr ""
 "저희는 스튜디오로부터 대량의 토큰을 구매하고 현지 통화로 송금하여 스튜디오가 "
 "번 돈을 받는 데 드는 시간과 노력을 줄여줍니다."
 
-#: website/templates/index.html:213
+#: website/templates/index.html:215
 msgid "Is it safe?"
 msgstr "안전한가요?"
 
-#: website/templates/index.html:218
+#: website/templates/index.html:220
 msgid "Yes, it is completely safe."
 msgstr "예, 완전히 안전합니다."
 
-#: website/templates/index.html:219
+#: website/templates/index.html:221
 msgid ""
 "We have checked with Chaturbate technical support to make sure that our "
 "activity does not violate the site's rules."
@@ -186,7 +211,7 @@ msgstr ""
 "저희의 활동이 사이트의 규칙을 위반하지 않는지 Chaturbate 기술 지원팀에 확인했"
 "습니다."
 
-#: website/templates/index.html:220
+#: website/templates/index.html:222
 msgid ""
 "All tokens we own are obtained in a completely honest way, we have verified "
 "each transaction ourselves, as well as by contacting Chaturbate support."
@@ -194,15 +219,15 @@ msgstr ""
 "당사가 소유한 모든 토큰은 완전히 정직한 방법으로 획득했으며, 각 거래를 직접 "
 "확인하고 Chaturbate 지원팀에 문의하여 확인했습니다."
 
-#: website/templates/index.html:221
+#: website/templates/index.html:223
 msgid "Thus the tokens we offer you are absolutely safe!"
 msgstr "따라서 저희가 제공하는 토큰은 절대적으로 안전합니다!"
 
-#: website/templates/index.html:229
+#: website/templates/index.html:231
 msgid "Why do you sell tokens cheaper than Chaturbate?"
 msgstr "채터베이트보다 토큰을 더 저렴하게 판매하는 이유는 무엇인가요?"
 
-#: website/templates/index.html:234
+#: website/templates/index.html:236
 msgid ""
 "As you know, if you want to buy tokens as a viewer directly from Chaturbate, "
 "the price per token is about $0.1 (e.g. 1000tk is $100)."
@@ -210,7 +235,7 @@ msgstr ""
 "아시다시피 Chaturbate에서 직접 뷰어로 토큰을 구매하려는 경우 토큰당 가격은 "
 "약 $0.1입니다(예: 1000tk는 $100)."
 
-#: website/templates/index.html:235
+#: website/templates/index.html:237
 #, python-format
 msgid ""
 "However, the model/studio only gets 50%% of these funds (the price of a "
@@ -219,7 +244,7 @@ msgstr ""
 "하지만 모델/스튜디오는 이 자금의 50%%만 받게 됩니다(모델 토큰 가격은 1000tk"
 "당 0.05달러 또는 50달러입니다)."
 
-#: website/templates/index.html:236
+#: website/templates/index.html:238
 msgid ""
 "Our benefit is that we buy tokens from studios at the site price and make it "
 "easier and faster for them to get the money they earn, then we sell the "
@@ -229,7 +254,7 @@ msgstr ""
 "고 빠르게 수익을 얻을 수 있도록 한 다음, 토큰을 1토큰당 0.065달러(1000토큰당 "
 "65달러)에 시청자에게 다시 판매한다는 점입니다."
 
-#: website/templates/index.html:237
+#: website/templates/index.html:239
 msgid ""
 "In this way we have created a WIN-WIN-WIN system in which absolutely every "
 "party benefits."
@@ -237,52 +262,52 @@ msgstr ""
 "이러한 방식으로 모든 당사자가 혜택을 누릴 수 있는 윈윈윈 시스템을 구축했습니"
 "다."
 
-#: website/templates/index.html:239
+#: website/templates/index.html:241
 msgid "The studio:"
 msgstr "스튜디오:"
 
-#: website/templates/index.html:239
+#: website/templates/index.html:241
 msgid "saves time and effort to withdraw earnings"
 msgstr "수입 인출에 드는 시간과 노력을 절약할 수 있습니다."
 
-#: website/templates/index.html:240
+#: website/templates/index.html:242
 msgid "The viewer:"
 msgstr "뷰어:"
 
-#: website/templates/index.html:240
+#: website/templates/index.html:242
 #, python-format
 msgid "saves his money when buying tokens (about 35%%)"
 msgstr "토큰을 구매할 때 돈을 절약합니다 (약 35 %%)."
 
-#: website/templates/index.html:241
+#: website/templates/index.html:243
 msgid "We:"
 msgstr "We:"
 
-#: website/templates/index.html:241
+#: website/templates/index.html:243
 msgid "benefit from the difference in exchange rates"
 msgstr "환율 차이로 인한 혜택"
 
-#: website/templates/index.html:250
+#: website/templates/index.html:252
 msgid "What is the process of buying tokens?"
 msgstr "토큰을 구매하는 과정은 어떻게 되나요?"
 
-#: website/templates/index.html:256
+#: website/templates/index.html:258
 msgid "First you need to have a verified Chaturbate account"
 msgstr "먼저 인증된 Chaturbate 계정이 있어야 합니다."
 
-#: website/templates/index.html:256
+#: website/templates/index.html:258
 msgid "(click here for instructions)"
 msgstr "(지침을 보려면 여기를 클릭하세요)"
 
-#: website/templates/index.html:257
+#: website/templates/index.html:259
 msgid "You write to our manager in"
 msgstr "관리자에게 편지를 보내세요"
 
-#: website/templates/index.html:257
+#: website/templates/index.html:259
 msgid "and write the amount of tokens you need"
 msgstr "를 클릭하고 필요한 토큰의 양을 입력합니다."
 
-#: website/templates/index.html:258
+#: website/templates/index.html:260
 msgid ""
 "Manager provides you with payment details (PayPal, Revolut, Crypto, Skrill "
 "or card payment)."
@@ -290,15 +315,15 @@ msgstr ""
 "관리자는 결제 세부 정보(PayPal, Revolut, Crypto, Skrill 또는 카드 결제)를 제"
 "공합니다."
 
-#: website/templates/index.html:259
+#: website/templates/index.html:261
 msgid "The manager sends you your tokens"
 msgstr "관리자가 토큰을 보내드립니다."
 
-#: website/templates/index.html:268
+#: website/templates/index.html:270
 msgid "Why do I need to be verified on Chaturbate?"
 msgstr "Chaturbate에서 인증을 받아야 하는 이유는 무엇인가요?"
 
-#: website/templates/index.html:273
+#: website/templates/index.html:275
 msgid ""
 "By default, the Chaturbate platform does not support sending tokens to a "
 "viewer account, but if you validate your account with documents (as any "
@@ -308,7 +333,7 @@ msgstr ""
 "른 모델과 마찬가지로 문서로 계정을 인증하면 해당 계정에 토큰 수령을 포함한 새"
 "로운 기능이 추가됩니다."
 
-#: website/templates/index.html:274
+#: website/templates/index.html:276
 msgid ""
 "We do not require you to provide your documents to us, you upload them "
 "exclusively to the Chaturbate website, your documents will not be used "
@@ -319,22 +344,22 @@ msgstr ""
 "사이트에만 문서를 업로드하고, 귀하의 문서는 다른 곳에서 사용되지 않으며 완전"
 "히 안전합니다(자세한 내용은 Chaturbate 사용자 계약서를 참조하세요)."
 
-#: website/templates/index.html:292
+#: website/templates/index.html:294
 msgid "Tokens Calculator"
 msgstr "토큰 계산기"
 
-#: website/templates/index.html:295
+#: website/templates/index.html:297
 msgid "1 Token"
 msgstr "1 토큰"
 
-#: website/templates/index.html:297
+#: website/templates/index.html:299
 msgid "Price"
 msgstr "가격"
 
-#: website/templates/index.html:328
+#: website/templates/index.html:330
 msgid "Tokens Amount"
 msgstr "토큰 금액"
 
-#: website/templates/index.html:332
+#: website/templates/index.html:334
 msgid "Price in Dollars"
 msgstr "달러 가격"

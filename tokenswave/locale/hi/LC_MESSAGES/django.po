@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-23 20:45+0200\n"
+"POT-Creation-Date: 2024-10-24 14:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,73 +18,94 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: tokenswave/settings.py:100
+#: tokenswave/settings.py:78
 msgid "English"
 msgstr ""
 
-#: tokenswave/settings.py:101
+#: tokenswave/settings.py:79
 msgid "Bahasa"
 msgstr ""
 
-#: tokenswave/settings.py:102
+#: tokenswave/settings.py:80
 msgid "Deutsch"
 msgstr ""
 
-#: tokenswave/settings.py:103
+#: tokenswave/settings.py:81
 msgid "Español"
 msgstr ""
 
-#: tokenswave/settings.py:104
+#: tokenswave/settings.py:82
 msgid "Français"
 msgstr ""
 
-#: tokenswave/settings.py:105
+#: tokenswave/settings.py:83
 msgid "हिन्दी (Hindī)"
 msgstr ""
 
-#: tokenswave/settings.py:106
+#: tokenswave/settings.py:84
 msgid "Italiano"
 msgstr ""
 
-#: tokenswave/settings.py:107
+#: tokenswave/settings.py:85
 msgid "Čeština"
 msgstr ""
 
-#: tokenswave/settings.py:108
+#: tokenswave/settings.py:86
 msgid "Latviski"
 msgstr ""
 
-#: tokenswave/settings.py:109
+#: tokenswave/settings.py:87
 msgid "Magyar nyelv"
 msgstr ""
 
-#: tokenswave/settings.py:110
+#: tokenswave/settings.py:88
 msgid "한국어 (Hangugeo)"
 msgstr ""
 
-#: tokenswave/settings.py:111
+#: tokenswave/settings.py:89
 msgid "Русский"
 msgstr ""
 
-#: tokenswave/settings.py:112
+#: tokenswave/settings.py:90
 msgid "日本語 (Nihongo)"
 msgstr ""
 
-#: tokenswave/settings.py:113
+#: tokenswave/settings.py:91
 msgid "Polski"
 msgstr ""
 
-#: tokenswave/settings.py:114
+#: tokenswave/settings.py:92
 msgid "Українська"
 msgstr ""
 
-#: website/templates/index.html:56 website/templates/index.html:57
-#: website/templates/index.html:62
+#: website/templates/400.html:16 website/templates/400.html:41
+msgid "Bad Request"
+msgstr ""
+
+#: website/templates/400.html:43 website/templates/403.html:43
+#: website/templates/404.html:43 website/templates/500.html:43
+msgid "Back"
+msgstr ""
+
+#: website/templates/403.html:16 website/templates/403.html:41
+msgid "Forbidden"
+msgstr ""
+
+#: website/templates/404.html:16 website/templates/404.html:41
+msgid "Page Not Found"
+msgstr ""
+
+#: website/templates/500.html:16 website/templates/500.html:41
+msgid "Internal Error"
+msgstr ""
+
+#: website/templates/index.html:59 website/templates/index.html:60
+#: website/templates/index.html:65
 msgid "Buy Chaturbate Tokens Cheaper"
 msgstr "Chaturbate टोकन सस्ते में खरीदें"
 
-#: website/templates/index.html:58 website/templates/index.html:59
-#: website/templates/index.html:60
+#: website/templates/index.html:61 website/templates/index.html:62
+#: website/templates/index.html:63
 #, python-format
 msgid ""
 "Get Chaturbate tokens 35%% cheaper. Buy fully legal tokens with no risk of "
@@ -95,52 +116,56 @@ msgstr ""
 "टोकन खरीदें। हम सत्यापित मॉडल और स्टूडियो से सीधे टोकन प्राप्त करते हैं, जिससे आपकी सभी "
 "Chaturbate ज़रूरतों के लिए सुरक्षित और सुरक्षित लेनदेन सुनिश्चित होता है।"
 
-#: website/templates/index.html:103
+#: website/templates/index.html:88 website/templates/index.html:97
+msgid "language"
+msgstr "जबान"
+
+#: website/templates/index.html:105
 msgid "Contact"
 msgstr "संपर्क"
 
-#: website/templates/index.html:104
+#: website/templates/index.html:106
 msgid "Steps"
 msgstr "कदम"
 
-#: website/templates/index.html:105
+#: website/templates/index.html:107
 msgid "FAQ"
 msgstr "सामान्य प्रश्न"
 
-#: website/templates/index.html:106
+#: website/templates/index.html:108
 msgid "Calculator"
 msgstr "कैलकुलेटर"
 
-#: website/templates/index.html:122
+#: website/templates/index.html:124
 #, python-format
 msgid "Legit tokens, but 35%% cheaper"
 msgstr "वैध टोकन, लेकिन 35%% सस्ते"
 
-#: website/templates/index.html:137
+#: website/templates/index.html:139
 msgid "Your Way to Get Tokens"
 msgstr "टोकन पाने का आपका तरीका"
 
-#: website/templates/index.html:145
+#: website/templates/index.html:147
 msgid "Text the manager"
 msgstr "प्रबंधक को संदेश भेजें"
 
-#: website/templates/index.html:154
+#: website/templates/index.html:156
 msgid "Send link to your Chaturbate account"
 msgstr "अपने Chaturbate खाते का लिंक भेजें"
 
-#: website/templates/index.html:163
+#: website/templates/index.html:165
 msgid "Pay for tokens"
 msgstr "टोकन के लिए भुगतान करें"
 
-#: website/templates/index.html:172
+#: website/templates/index.html:174
 msgid "Get your tokens"
 msgstr "अपने टोकन प्राप्त करें"
 
-#: website/templates/index.html:185
+#: website/templates/index.html:187
 msgid "Frequently Asked Questions"
 msgstr "अक्सर पूछे जाने वाले प्रश्नों"
 
-#: website/templates/index.html:187
+#: website/templates/index.html:189
 msgid ""
 "In this section you can find answers to the most common questions. If you "
 "have not found the answer to your question, do not hesitate to ask our "
@@ -149,11 +174,11 @@ msgstr ""
 "इस अनुभाग में आप सबसे आम सवालों के जवाब पा सकते हैं। अगर आपको अपने सवाल का जवाब नहीं "
 "मिला है, तो हमारे मैनेजर से पूछने में संकोच न करें"
 
-#: website/templates/index.html:199
+#: website/templates/index.html:201
 msgid "Where do you get your tokens from?"
 msgstr "आप अपने टोकन कहां से प्राप्त करते हैं?"
 
-#: website/templates/index.html:204
+#: website/templates/index.html:206
 msgid ""
 "We partner with studios to provide them with a service to exchange tokens "
 "for local currencies."
@@ -161,7 +186,7 @@ msgstr ""
 "हम स्टूडियो के साथ साझेदारी करके उन्हें स्थानीय मुद्राओं के लिए टोकन का आदान-प्रदान करने की "
 "सेवा प्रदान करते हैं।"
 
-#: website/templates/index.html:205
+#: website/templates/index.html:207
 msgid ""
 "We buy a large number of tokens from studios and transfer the money to them "
 "in their local currency, so we save them time and effort in getting the "
@@ -171,15 +196,15 @@ msgstr ""
 "हस्तांतरित करते हैं, जिससे उन्हें अर्जित धनराशि प्राप्त करने में लगने वाला समय और प्रयास बच "
 "जाता है।"
 
-#: website/templates/index.html:213
+#: website/templates/index.html:215
 msgid "Is it safe?"
 msgstr "क्या यह सुरक्षित है?"
 
-#: website/templates/index.html:218
+#: website/templates/index.html:220
 msgid "Yes, it is completely safe."
 msgstr "हां, यह पूर्णतः सुरक्षित है।"
 
-#: website/templates/index.html:219
+#: website/templates/index.html:221
 msgid ""
 "We have checked with Chaturbate technical support to make sure that our "
 "activity does not violate the site's rules."
@@ -187,7 +212,7 @@ msgstr ""
 "हमने चैटरबेट तकनीकी सहायता से यह सुनिश्चित करने के लिए जांच की है कि हमारी गतिविधि "
 "साइट के नियमों का उल्लंघन नहीं करती है।"
 
-#: website/templates/index.html:220
+#: website/templates/index.html:222
 msgid ""
 "All tokens we own are obtained in a completely honest way, we have verified "
 "each transaction ourselves, as well as by contacting Chaturbate support."
@@ -195,15 +220,15 @@ msgstr ""
 "हमारे पास मौजूद सभी टोकन पूरी तरह से ईमानदार तरीके से प्राप्त किए गए हैं, हमने प्रत्येक "
 "लेनदेन को स्वयं सत्यापित किया है, साथ ही चैटरबेट समर्थन से संपर्क करके भी।"
 
-#: website/templates/index.html:221
+#: website/templates/index.html:223
 msgid "Thus the tokens we offer you are absolutely safe!"
 msgstr "इस प्रकार हम आपको जो टोकन प्रदान करते हैं वह बिल्कुल सुरक्षित हैं!"
 
-#: website/templates/index.html:229
+#: website/templates/index.html:231
 msgid "Why do you sell tokens cheaper than Chaturbate?"
 msgstr "आप चैटरबेट से सस्ते टोकन क्यों बेचते हैं?"
 
-#: website/templates/index.html:234
+#: website/templates/index.html:236
 msgid ""
 "As you know, if you want to buy tokens as a viewer directly from Chaturbate, "
 "the price per token is about $0.1 (e.g. 1000tk is $100)."
@@ -211,7 +236,7 @@ msgstr ""
 "जैसा कि आप जानते हैं, यदि आप चैटरबेट से सीधे दर्शक के रूप में टोकन खरीदना चाहते हैं, तो प्रति "
 "टोकन की कीमत लगभग $0.1 है (उदाहरण के लिए 1000tk $100 है)।"
 
-#: website/templates/index.html:235
+#: website/templates/index.html:237
 #, python-format
 msgid ""
 "However, the model/studio only gets 50%% of these funds (the price of a "
@@ -220,7 +245,7 @@ msgstr ""
 "हालाँकि, मॉडल/स्टूडियो को इन फंडों का केवल 50%% ही मिलता है (एक मॉडल के लिए टोकन की "
 "कीमत $0.05 या $50 प्रति 1000tk है)।"
 
-#: website/templates/index.html:236
+#: website/templates/index.html:238
 msgid ""
 "Our benefit is that we buy tokens from studios at the site price and make it "
 "easier and faster for them to get the money they earn, then we sell the "
@@ -230,59 +255,59 @@ msgstr ""
 "प्राप्त करना आसान और तेज़ बनाते हैं, फिर हम टोकन को दर्शकों को $ 0.065 प्रति 1 टोकन ($ "
 "65 प्रति 1000tk) पर बेचते हैं।"
 
-#: website/templates/index.html:237
+#: website/templates/index.html:239
 msgid ""
 "In this way we have created a WIN-WIN-WIN system in which absolutely every "
 "party benefits."
 msgstr ""
 "इस तरह हमने एक जीत-जीत-जीत प्रणाली बनाई है जिसमें निश्चित रूप से हर पक्ष को लाभ होगा।"
 
-#: website/templates/index.html:239
+#: website/templates/index.html:241
 msgid "The studio:"
 msgstr "स्टूडियो:"
 
-#: website/templates/index.html:239
+#: website/templates/index.html:241
 msgid "saves time and effort to withdraw earnings"
 msgstr "कमाई निकालने में लगने वाले समय और मेहनत की बचत होती है"
 
-#: website/templates/index.html:240
+#: website/templates/index.html:242
 msgid "The viewer:"
 msgstr "दर्शक:"
 
-#: website/templates/index.html:240
+#: website/templates/index.html:242
 #, python-format
 msgid "saves his money when buying tokens (about 35%%)"
 msgstr "टोकन खरीदते समय अपना पैसा बचाता है (लगभग 35%%)"
 
-#: website/templates/index.html:241
+#: website/templates/index.html:243
 msgid "We:"
 msgstr "हम:"
 
-#: website/templates/index.html:241
+#: website/templates/index.html:243
 msgid "benefit from the difference in exchange rates"
 msgstr "विनिमय दरों में अंतर से लाभ"
 
-#: website/templates/index.html:250
+#: website/templates/index.html:252
 msgid "What is the process of buying tokens?"
 msgstr "टोकन खरीदने की प्रक्रिया क्या है?"
 
-#: website/templates/index.html:256
+#: website/templates/index.html:258
 msgid "First you need to have a verified Chaturbate account"
 msgstr "सबसे पहले आपके पास एक सत्यापित Chaturbate खाता होना चाहिए"
 
-#: website/templates/index.html:256
+#: website/templates/index.html:258
 msgid "(click here for instructions)"
 msgstr "(निर्देशों के लिए यहां क्लिक करें)"
 
-#: website/templates/index.html:257
+#: website/templates/index.html:259
 msgid "You write to our manager in"
 msgstr "आप हमारे प्रबंधक को लिखें"
 
-#: website/templates/index.html:257
+#: website/templates/index.html:259
 msgid "and write the amount of tokens you need"
 msgstr "और आपको जितने टोकन की आवश्यकता है, उसे लिखें"
 
-#: website/templates/index.html:258
+#: website/templates/index.html:260
 msgid ""
 "Manager provides you with payment details (PayPal, Revolut, Crypto, Skrill "
 "or card payment)."
@@ -290,15 +315,15 @@ msgstr ""
 "प्रबंधक आपको भुगतान विवरण (पेपैल, रेवोल्यूट, क्रिप्टो, स्क्रिल या कार्ड भुगतान) प्रदान करता "
 "है।"
 
-#: website/templates/index.html:259
+#: website/templates/index.html:261
 msgid "The manager sends you your tokens"
 msgstr "प्रबंधक आपको आपके टोकन भेजता है"
 
-#: website/templates/index.html:268
+#: website/templates/index.html:270
 msgid "Why do I need to be verified on Chaturbate?"
 msgstr "मुझे Chaturbate पर सत्यापित होने की आवश्यकता क्यों है?"
 
-#: website/templates/index.html:273
+#: website/templates/index.html:275
 msgid ""
 "By default, the Chaturbate platform does not support sending tokens to a "
 "viewer account, but if you validate your account with documents (as any "
@@ -308,7 +333,7 @@ msgstr ""
 "आप अपने खाते को दस्तावेज़ों के साथ सत्यापित करते हैं (जैसा कि कोई भी मॉडल करता है), तो "
 "खाते में टोकन प्राप्त करने सहित नई सुविधाएँ होती हैं"
 
-#: website/templates/index.html:274
+#: website/templates/index.html:276
 msgid ""
 "We do not require you to provide your documents to us, you upload them "
 "exclusively to the Chaturbate website, your documents will not be used "
@@ -319,22 +344,22 @@ msgstr ""
 "वेबसाइट पर अपलोड करते हैं, आपके दस्तावेज़ों का कहीं और उपयोग नहीं किया जाएगा और वे पूरी "
 "तरह से सुरक्षित हैं (अधिक जानकारी के लिए Chaturbate उपयोगकर्ता अनुबंध पढ़ें)।"
 
-#: website/templates/index.html:292
+#: website/templates/index.html:294
 msgid "Tokens Calculator"
 msgstr "टोकन कैलकुलेटर"
 
-#: website/templates/index.html:295
+#: website/templates/index.html:297
 msgid "1 Token"
 msgstr "1 टोकन"
 
-#: website/templates/index.html:297
+#: website/templates/index.html:299
 msgid "Price"
 msgstr "कीमत"
 
-#: website/templates/index.html:328
+#: website/templates/index.html:330
 msgid "Tokens Amount"
 msgstr "टोकन राशि"
 
-#: website/templates/index.html:332
+#: website/templates/index.html:334
 msgid "Price in Dollars"
 msgstr "डॉलर में कीमत"
